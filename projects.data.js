@@ -340,8 +340,8 @@ window.PROJECTS = [
     visual: {
       kind: 'gallery',
       images: [
-        { src: 'demos/TerraformAzure/1762196690993.jpeg', caption: 'Connexion SSH à la VM Ubuntu déployée sur Azure.' },
-        { src: 'demos/TerraformAzure/1762196692300.jpeg', caption: 'Ressources réseau Azure créées par Terraform.' }
+        { src: 'demos/terraformAzure/1762196690993.jpeg', caption: 'Connexion SSH à la VM Ubuntu déployée sur Azure.' },
+        { src: 'demos/terraformAzure/1762196692300.jpeg', caption: 'Ressources réseau Azure créées par Terraform.' }
       ]
     },
     demo: null,
